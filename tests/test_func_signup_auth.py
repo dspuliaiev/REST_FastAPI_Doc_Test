@@ -20,3 +20,5 @@ def test_signup(client, monkeypatch):
     assert data["email"] == user_data["email"]
     assert "password" not in data
     assert "avatar" in data
+
+
