@@ -15,7 +15,7 @@ In the application:
 *  CORS is enabled;
 *  the ability to update the user's avatar is implemented, the Cloudinary service is used;
 *  all environment variables are stored in the .env file; 
-*  Docker Compose is used to run all services and databases in the application;
+*  Docker compose is used to run all services and databases in the application;
 *  documentation was created using Sphinx;
 *  module tests covered the repository modules using the Unittest framework; 
 *  functional tests covered the main routes using the pytest framework.
